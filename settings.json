@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Satoru_bot",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "BlackCraftSMP.aternos.me",
