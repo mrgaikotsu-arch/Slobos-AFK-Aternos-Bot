@@ -8,7 +8,7 @@
   "server": {
     "ip": "BlackCraftSMP.aternos.me",
     "port": 51031,
-    "version": "",
+    "version": "1.26.1",
     "try-creative": false
   },
   "position": {
